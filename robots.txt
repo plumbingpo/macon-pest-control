@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maconpestcontrolco.com/sitemap.xml
